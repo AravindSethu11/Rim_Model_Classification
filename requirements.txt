@@ -1,0 +1,11 @@
+torch>=2.3.0
+torchvision>=0.18.0
+# SAM2 must be installed from source — see setup_sam2.sh
+# git+https://github.com/facebookresearch/segment-anything-2.git
+
+mediapipe>=0.10.14
+opencv-python>=4.9.0
+numpy>=1.26.0
+pandas>=2.2.0
+openpyxl>=3.1.2
+Pillow>=10.0.0
